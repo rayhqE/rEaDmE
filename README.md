@@ -1,5 +1,5 @@
 <h1 align="center">Sup! I am Rayyan</h1>
-<h3 align="center">Developing software that works, scales, and matters.</h3>
+<h3 align="center">Developing softwares that works, scales, and matters.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
