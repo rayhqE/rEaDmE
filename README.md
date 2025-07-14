@@ -3,7 +3,7 @@
 
 - I’m looking to collaborate on **MERN Projects.**
 
-- 📄 Know about my experiences: [Resume](https://tinyurl.com/47nav9d9)
+- [Resume](https://tinyurl.com/47nav9d9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
