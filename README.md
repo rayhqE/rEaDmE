@@ -3,12 +3,12 @@
 
 - I’m looking to collaborate on **MERN Projects.**
 
-- [Resume](https://www.linkedin.com/in/srhaque/)
+- [Resume](https://drive.google.com/file/d/17G6iyHkZ5IJwbnOFVSOBNQ2H31eI0qyu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ray_hq3e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ray_hq3e" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/s.rayyanul haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s.rayyanul haque" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/srhaque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s.rayyanul haque" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
