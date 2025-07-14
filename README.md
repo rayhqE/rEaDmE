@@ -3,7 +3,7 @@
 
 - I’m looking to collaborate on **MERN Projects.**
 
-- [Resume](www.linkedin.com/in/srhaque)
+- [Resume](https://www.linkedin.com/in/srhaque/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
